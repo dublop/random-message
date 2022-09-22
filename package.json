@@ -14,7 +14,15 @@
   "author": "Dubraska Lopez <dubraskalopav@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dublop/random-message.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dublop/random-message/issues"
+  },
+  "homepage": "https://github.com/dublop/random-message#readme"
 }
